@@ -41,3 +41,10 @@ p {
     gap: 30px;
 }
 
+.servicio-item {
+    background-color: #ffffff;
+    padding: 20px;
+    width: 300px;
+    text-align: left;
+}
+

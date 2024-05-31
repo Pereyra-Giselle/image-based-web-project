@@ -6,4 +6,11 @@ body {
 }
 
 
-
+.containerAuxiliar {
+    text-align: center;
+    padding: 50px;
+    background-color: white;
+    border-radius: 15px;
+    width: 1160px;
+    margin: 100px ;
+}
